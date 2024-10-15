@@ -1,0 +1,14 @@
+# Notification Support
+plyer
+win10toast
+
+# GUI
+tkinter
+PyQt5
+
+# Logging Sessions / Progress Tracking
+sqlite3
+pandas
+
+# Sounds / Alarms
+pygame
