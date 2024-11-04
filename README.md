@@ -20,7 +20,7 @@ Customizable Pomodoro Timer written in Python
 
 3. Run program
     ---
-    python pomodoro_timer/timer.py
+    python pomodoro_timer/main.py
     ---
 
 # LICENSE
